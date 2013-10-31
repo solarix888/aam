@@ -1,0 +1,23 @@
+=== AdsNative Analytics Module ===
+Tags: articles, content, headlines, links, pageviews, plugin, recommendation, social, adsnative, analytics, traffic, posts, best, readers, engagement, native, advertising
+Contributors: adsnative
+Plugin Name: AdsNative Content Analytics 
+Plugin URI: https://github.com/simplereach/sranalytics_wordpress
+Requires at least: 2.7
+Tested up to: 3.7.2
+Stable tag: 0.0.1
+
+AdsNative Analytics Module tracks content-level staticss and trends to give publishers deeper insights their visitors' engagements.
+
+== Installation ==
+1. Go to www.adsnative.com and register for an analytics account.
+2. Get the Key (Publisher Key) for your account.
+3. Click Plugins -> Add New -> Upload Plugin Package
+4. After installation, find AdsNative Analytics_ in your plugins list and click _Activate_.
+5. Go to _Settings -> AdsNative Analytics_  and enter the Analytics Script URL and the Publisher Key (provided for you in your AdsNative account) and click _Save_.
+6. You're done!  Now you can start see content-level statics from your AdsNative Dashboard.
+
+== Changelog ==
+
+= 0.0.1 =
+* Alpha release
